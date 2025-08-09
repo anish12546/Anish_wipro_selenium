@@ -1,5 +1,5 @@
 package assignment_5;
-
+//Q2
 
 
 //1. Define the Movable interface
@@ -157,4 +157,5 @@ public class Movable_test {
      System.out.println(rectangle);
  }
 }
+
 
