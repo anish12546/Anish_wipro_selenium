@@ -2,7 +2,7 @@ package Assignmnet6;
 
 public class StringConversion {
     public static void main(String[] args) {
-        int originalInt = 123;
+        int originalInt = 200;
 
         String stringValue = String.valueOf(originalInt);
         System.out.println("String value: " + stringValue);
@@ -24,4 +24,5 @@ public class StringConversion {
         }
     }
 }
+
 
