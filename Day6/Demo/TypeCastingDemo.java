@@ -17,14 +17,14 @@ public class TypeCastingDemo {
         System.out.println("Integer value: " + intValue);
         System.out.println("Widened to double: " + widenedValue);
 
-        // Read a double value from user input
+       
         System.out.print("Enter a double value: ");
         double doubleValue = scanner.nextDouble();
 
-        // Explicit casting from double to int 
+      
         int castedInt = (int) doubleValue;
 
-        // Explicit casting from int to short 
+      
         short castedShort = (short) castedInt;
 
        
@@ -35,3 +35,4 @@ public class TypeCastingDemo {
         
     }
 }
+
