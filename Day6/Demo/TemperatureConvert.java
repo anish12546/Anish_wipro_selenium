@@ -14,13 +14,14 @@ public class TemperatureConvert {
         double fahrenheit = celsius * 9 / 5 + 32;
 
         
-        int truncatedFahrenheit = (int) fahrenheit;
+        int newFahrenheit = (int) fahrenheit;
 
         
-        System.out.println("Fahrenheit (precise): " + fahrenheit);
-        System.out.println("Fahrenheit (truncated to int): " + truncatedFahrenheit);
+        System.out.println("Fahrenheit " + fahrenheit);
+        System.out.println("Fahrenheit  " + newFahrenheit);
 
        
     }
 }
+
 
