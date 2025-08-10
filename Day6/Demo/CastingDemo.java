@@ -2,18 +2,18 @@ package Assignmnet6;
 
 class Animal {
     void makeSound() {
-        System.out.println("Some generic animal sound");
+        System.out.println("animal Sound");
     }
 }
 
 class Dog extends Animal {
 
     void makeSound() {
-        System.out.println("Woof!");
+        System.out.println("bark");
     }
 
     void fetch() {
-        System.out.println("Dog fetches the ball!");
+        System.out.println("Dog fetches");
     }
 }
 
@@ -31,3 +31,4 @@ public class CastingDemo {
         dd.fetch();
     }
 }
+
