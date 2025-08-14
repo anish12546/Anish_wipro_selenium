@@ -101,3 +101,9 @@ public class swag_lab {
 	}
 
 }
+//ouptut
+Welcome to swag lab page !
+manual test :login successfully
+manual test :add to cart successfully
+manual test :logout successfully
+
